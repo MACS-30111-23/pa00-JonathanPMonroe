@@ -1,17 +1,33 @@
-# PA 00
+# Jonathan's PA 00
 
-For this assignment, you will submit TWO files -- the readme and the script file. 
+Hello there! My name is Jonathan Monroe. I am a first year MACSS student interested in modelling _Political Behavior_.
+
+_**Education Background**_
+
+-Bachelors degree in Political Science
+
+-Senior undergraduate thesis analyzing Political Psychology and Behavior
+
+I am interested in joining the Society for Political Methodology during my graduate studies:
+
+![Political Methodology Logo](./images/PolMethLogo.webp)
+
+Also, feel free to add me on Linkedin [here](https://www.linkedin.com/in/jonathan-monroe-139259249/)!
 
 
-Edit this README file to include a brief biography of yourself. Your README should include the following elements:
-* Headers (one or more)
-* Emphasis (italics or/and bold)
-* Lists
-* Images: add a picture (of yourself or something else) to your repo and embed it in your README
-* Links
-* A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
+_**My workflow for this assignment is as follows:**_
+
+1. Accepted and initialized the repository.
+2. Edited the README to incorporate changes.
+3. Created an images folder in the Github repository and linked the image from the folder into the README markdown.
+4. Incorporated a link to a website
+5. Cloned the repository as a local repository on my computer
+6. Made changes to the text file, and added, committed, and pushed the changes back to the Github repository
 
 
+_**Overview**_
+
+I learned how to incorporate images and links in to markdown, which I never knew how to do previously; this was suprisingly easier than I expected. I also learned how to create headers, bold, and italicize in markdown. I am very happy to have these skills for my future projects in Github!
 
 
 ## 📚  Resources 
